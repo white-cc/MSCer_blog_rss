@@ -50,3 +50,4 @@ MSC各位成员的博客rss地址的收集仓库
 - konge: [konge](https://konge.pw)
 - Wallet: [Wallet](39.105.105.208)
 - yrpang: [yrPang](https://blog.yrpang.com/)
+- white-cc: [white-cc](https://white-cc.github.io)
